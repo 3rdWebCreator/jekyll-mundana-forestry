@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: []
+categories: Updates
 title: More Posts
 author: Tim
 image: "/assets/images/4.jpg"
