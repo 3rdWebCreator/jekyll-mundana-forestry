@@ -18,8 +18,8 @@ authors:
     name: Tim
     site: https://www.3rdwebcreator.com
     avatar: "/assets/images/avatar1.jpg"
-    bio:
-    email: 
+    bio: A bio.
+    email: email@site.com
     twitter: https://twitter.com/3rdwebcreator
   defaults:
 - scope:
