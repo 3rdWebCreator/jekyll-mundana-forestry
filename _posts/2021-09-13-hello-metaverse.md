@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: []
+categories: Updates
 title: Hello Metaverse!
 author: Tim
 image: "/assets/images/demo1.jpg"
