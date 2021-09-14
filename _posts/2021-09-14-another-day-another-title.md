@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: []
+categories: Updates
 title: Another day, another title.
 author: Tim
 image: "/assets/images/13.jpg"
