@@ -14,7 +14,7 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 authors:
-  tim:
+  sal:
     name: Tim
     site: https://www.3rdwebcreator.com
     avatar: "/assets/images/avatar1.jpg"
