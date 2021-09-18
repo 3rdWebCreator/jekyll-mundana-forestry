@@ -1,8 +1,10 @@
 ---
 layout: post
-categories: []
+categories:
+- Updates
+- "[featured]"
 title: You've Got to Have Four
-author: Tim
+author: Sal
 image: "/assets/images/10.jpg"
 
 ---
