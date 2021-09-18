@@ -3,7 +3,7 @@ layout: post
 categories: []
 title: Hello Metaverse!
 author: Tim
-image: "/assets/images/demo1.jpg"
+image: "/assets/images/8.jpg"
 
 ---
 Creators, welcome to the third web. For more information, visit [Namebase.io](https://www.namebase.io/ "Namebase.io").
