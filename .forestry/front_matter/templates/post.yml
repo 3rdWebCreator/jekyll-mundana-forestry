@@ -25,5 +25,4 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/2021-09-14-another-day-another-title.md
 - about.md
