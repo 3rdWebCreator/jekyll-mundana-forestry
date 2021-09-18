@@ -5,6 +5,8 @@ categories:
 title: Hello Metaverse!
 author: Tim
 image: "/assets/images/8.jpg"
+tags:
+- sticky
 
 ---
 Creators, welcome to the third web. For more information, visit [Namebase.io](https://www.namebase.io/ "Namebase.io").
