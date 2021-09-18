@@ -25,5 +25,6 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/additional-topics-now-available.md
 - _posts/brand-new-post.md
 - about.md
