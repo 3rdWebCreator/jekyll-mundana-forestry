@@ -654,7 +654,21 @@ footer {
 article {
 	font-size:20px;
 	line-height:1.86;
-    font-family:Lora;
+    	font-family:Lora;
+}
+article a {
+	background-color: transparent;
+    	color: inherit;
+    	text-decoration: none;
+    	transition: background .15s cubic-bezier(.33,.66,.66,1);
+    	border-bottom: 3px solid #b4e7f8;
+    	box-shadow: inset 0 -3px 0 #ffde00;
+    	overflow-wrap: break-word;
+    	word-break: break-word;
+    	word-wrap: break-word;	
+}
+article a:hover {
+	background-color: #ffde00;
 }
 .article-headline {
     font-family: Georgia,Times,"Times New Roman",serif;
