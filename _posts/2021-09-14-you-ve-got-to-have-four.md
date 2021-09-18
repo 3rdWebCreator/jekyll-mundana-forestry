@@ -1,8 +1,6 @@
 ---
 layout: post
-categories:
-- Updates
-- [featured]
+categories: []
 title: You've Got to Have Four
 author: Tim
 image: "/assets/images/10.jpg"
