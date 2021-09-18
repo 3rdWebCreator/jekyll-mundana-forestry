@@ -20,6 +20,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - _posts/2021-09-13-hello-metaverse.md
 - _posts/2021-09-14-another-day-another-title.md
