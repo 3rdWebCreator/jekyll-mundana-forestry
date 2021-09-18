@@ -6,7 +6,7 @@ title: More Posts
 author: Tim
 image: "/assets/images/4.jpg"
 tags:
-- featured
+- Featured
 
 ---
 We need more posts to see how the theme works.
