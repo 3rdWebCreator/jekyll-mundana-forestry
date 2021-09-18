@@ -1,7 +1,6 @@
 ---
 layout: post
 categories:
-- sticky
 - metaverse
 title: Hello Metaverse!
 author: Tim
