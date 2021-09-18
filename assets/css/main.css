@@ -7205,7 +7205,8 @@ a.text-warning:hover, a.text-warning:focus {
 
 .text-danger {
   color: #000000 !important;
-  background-color: #ffde00; }
+  background-color: #ffde00;
+  padding: 5px; }
 
 a.text-danger:hover, a.text-danger:focus {
   color: #000000 !important; }
