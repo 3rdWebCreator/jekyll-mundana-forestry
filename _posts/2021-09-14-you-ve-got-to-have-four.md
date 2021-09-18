@@ -2,9 +2,9 @@
 layout: post
 categories:
 - Updates
-- "[featured]"
+- [featured]
 title: You've Got to Have Four
-author: Sal
+author: Tim
 image: "/assets/images/10.jpg"
 
 ---
