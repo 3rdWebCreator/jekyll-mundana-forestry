@@ -32,11 +32,9 @@ a,a:hover {
 }
 a {
 	color:#00000;
-	font-weight: bold;
 }
 a.text-dark:hover {
 	color:#000000 !important;
-	background-color: #ffde00;
 }
 .c-pointer:hover {
 	cursor:pointer;
