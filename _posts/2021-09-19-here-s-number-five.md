@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-- News
+- DAOs
 tags:
 - Featured
 title: Here's Number Five
