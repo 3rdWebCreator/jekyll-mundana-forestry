@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- Metaverse
 tags:
 - featured
 title: Additional Topics Now Available
