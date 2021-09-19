@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- News
 tags:
 - Featured
 title: Here's Number Five
