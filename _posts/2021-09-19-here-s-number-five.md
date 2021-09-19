@@ -1,7 +1,8 @@
 ---
 layout: post
 categories: []
-tags: []
+tags:
+- Featured
 title: Here's Number Five
 author: Tim
 image: "/assets/images/10.jpg"
