@@ -662,7 +662,7 @@ article a {
     	text-decoration: none;
     	transition: background .15s cubic-bezier(.33,.66,.66,1);
     	border-bottom: 3px solid #ffde00;
-    	box-shadow: inset 0 -3px 0 #ffde00;
+    	box-shadow: inset 0 -6px 0 #ffde00;
     	overflow-wrap: break-word;
     	word-break: break-word;
     	word-wrap: break-word;	
