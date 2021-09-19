@@ -1,6 +1,7 @@
 ---
 layout: post
-categories: []
+categories:
+- Updates
 tags:
 - sticky
 title: Brand New Post
