@@ -5,7 +5,7 @@ categories:
 tags:
 - featured
 title: And Dummy Text Two
-author: Tim
+author: tim
 image: "/assets/images/13.jpg"
 
 ---
