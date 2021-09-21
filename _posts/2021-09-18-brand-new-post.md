@@ -5,7 +5,7 @@ categories:
 tags:
 - sticky
 title: Brand New Post
-author: Jane
+author: tim
 image: "/assets/images/demo1.jpg"
 
 ---
