@@ -5,7 +5,7 @@ categories:
 tags:
 - featured
 title: Dummy Text One
-author: Tim
+author: tim
 image: "/assets/images/8.jpg"
 
 ---
