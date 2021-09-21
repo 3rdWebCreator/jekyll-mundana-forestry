@@ -5,7 +5,7 @@ categories:
 tags:
 - Featured
 title: Here's Number Five
-author: Tim
+author: tim
 image: "/assets/images/10.jpg"
 
 ---
