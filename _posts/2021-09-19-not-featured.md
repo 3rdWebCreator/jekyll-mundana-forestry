@@ -4,7 +4,7 @@ categories:
 - Updates
 tags: []
 title: Not Featured
-author: Tim
+author: tim
 image: "/assets/images/demo1.jpg"
 
 ---
