@@ -32,8 +32,8 @@ authors:
   tim:
     name: Tim
     site: https://www.3rdwebcreator.com
-    avatar: "/assets/images/avatar1.jpg"
-    bio: Hi, I'm Tim. Welcome to my Web 3 blog.
+    avatar: "/assets/images/tim.jpg"
+    bio: Welcome to my blog on the third web.
     email: contact@3rdwebcreator.com
     twitter: https://twitter.com/3rdwebcreator
 defaults:
