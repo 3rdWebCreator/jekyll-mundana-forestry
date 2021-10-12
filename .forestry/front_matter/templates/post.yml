@@ -25,5 +25,4 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/2021-09-24-own-it.md
 - about.md
