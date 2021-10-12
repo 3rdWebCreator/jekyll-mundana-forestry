@@ -2,8 +2,8 @@
 layout: post
 categories: []
 title: About
-author: Tim
-image: "/assets/images/6.jpg"
+author: tim
+image: "/assets/images/02524c13-ffd2-4919-8e27-4c4209418a25.png"
 tags: []
 
 ---
