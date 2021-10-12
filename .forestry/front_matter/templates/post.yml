@@ -25,4 +25,5 @@ fields:
   default: []
   label: Tags
 pages:
+- _posts/not-a-developer.md
 - about.md
