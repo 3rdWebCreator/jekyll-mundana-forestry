@@ -1,7 +1,11 @@
 ---
 layout: post
-categories: []
-tags: []
+categories:
+- Microblog
+tags:
+- Hugo
+- Fleek
+- Forestry
 title: 'Not a Developer '
 author: tim
 image: "/assets/images/25257d39-b69a-42db-a2fe-21f41d5a5b1f.jpeg"
