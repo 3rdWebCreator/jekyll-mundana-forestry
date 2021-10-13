@@ -6,7 +6,7 @@ tags:
 - Sticky
 title: If At First You Can’t Tweet, Try Jekyll Instead
 author: tim
-image: "/assets/images/91be0592-f992-42a3-a517-5f208ec3af73.png"
+image: "/assets/images/ea9b7794-be35-4701-a982-2f32af4ce2db.jpeg"
 
 ---
 I tried, and failed to tweet last night.
