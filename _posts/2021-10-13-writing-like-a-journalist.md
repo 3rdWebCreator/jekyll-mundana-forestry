@@ -5,6 +5,7 @@ categories:
 tags:
 - Video
 - Writing
+- Featured
 title: Writing Like a Journalist
 author: tim
 image: "/assets/images/6b0d2efb-9f7c-443f-a2a3-ed7b2cf4fc8f.png"
