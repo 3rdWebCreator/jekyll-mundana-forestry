@@ -6,7 +6,7 @@ tags:
 - Jekyll
 title: Set It and Forget It
 author: tim
-image: "/assets/images/51623020-c026-46d3-8216-253e91029a02.jpeg"
+image: "/assets/images/9feb5530-0ea0-4616-9eb5-5471c4099082.jpeg"
 
 ---
 As I write this, the _Creator_ blog is not really hosted anywhere. Files are stored on GitHub. The site exists in a Forestry.io preview, but that’s it.  
