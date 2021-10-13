@@ -10,7 +10,7 @@ author: tim
 image: ''
 
 ---
-I finally made the jump to Web3! It’s a little complicated. Just look at the path I took to get here.
+I finally made the jump to Web3! Let’s just say it was a little complicated for an average creator like me. Look at the winding path I took to get here.
 
 This blog is now hosted on [IPFS](), thanks to [Fleek.co](). Fleek imported the static site from a [GitHub](https://github.com/) repository. The repository was created using a template site through the [Forestry.io](https://www.forestry.io/) content management system. It’s available at the [Handshake](https://handshake.org/) domain creator.3rdWeb/, which I acquired on [Namebase](https://www.namebase.io/). 
 
