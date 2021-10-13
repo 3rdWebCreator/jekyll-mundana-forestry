@@ -4,7 +4,7 @@ categories:
 - Microblog
 tags:
 - Jekyll
-title: Good Magazines Have Bad Websites
+title: Good Magazines Have Bad Web Sites
 author: tim
 image: "/assets/images/3707a36b-0f9e-4ad3-977d-8cf18d89ff90.jpeg"
 
