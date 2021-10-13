@@ -19,6 +19,6 @@ Think of _Creator_ as a new take on Kevin Kelly’s concept of [_One Thousand Tr
 
 Getting blocked led me to abandon Twitter for a Web 3 microblog built with Jekyll, and hosted on IPFS.
 
-This is that microblog_._ Inspired by the writings of Seth Godin and Austin Kleon, I want to “[put myself on the hook](https://seths.blog/thepractice/),” and “[show my work](https://austinkleon.com/show-your-work/).” The posts will be raw, but close to real time. And while my words may be harder to find here on the 3rd Web, they’ll never be blocked by Twitter.
+This is that microblog. Inspired by the writings of Seth Godin and Austin Kleon, I want to “[put myself on the hook](https://seths.blog/thepractice/),” and “[show my work](https://austinkleon.com/show-your-work/).” The posts will be raw, but close to real time. And while my words may be harder to find here on the 3rd Web, they’ll never be blocked by Twitter.
 
 If that sort of thing interests you, I hope you will come back to follow along.
