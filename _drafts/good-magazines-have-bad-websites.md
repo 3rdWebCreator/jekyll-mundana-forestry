@@ -1,11 +1,12 @@
 ---
 layout: post
-categories: []
+categories:
+- Microblog
 tags:
 - Jekyll
 title: Good Magazines Have Bad Websites
 author: tim
-image: ''
+image: "/assets/images/b5838d54-a7c6-4718-89f2-f5211293ed6a.png"
 
 ---
 Have you tried visiting the website of a major magazine lately? It’s a disaster. There are pop-ups and ads loading everywhere.
