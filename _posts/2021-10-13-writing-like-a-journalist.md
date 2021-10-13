@@ -7,7 +7,7 @@ tags:
 - Writing
 title: Writing Like a Journalist
 author: tim
-image: "/assets/images/6b0d2efb-9f7c-443f-a2a3-ed7b2cf4fc8f.png"
+image: "/assets/images/9524442c-af57-4172-acda-c78acb06e455.png"
 
 ---
 Lots of people can write, but most of them are not writers. Day to day written communication doesn’t require too much attention to style.
