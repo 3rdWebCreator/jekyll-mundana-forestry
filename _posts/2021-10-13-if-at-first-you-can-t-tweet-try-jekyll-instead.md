@@ -4,6 +4,7 @@ categories:
 - Microblog
 tags:
 - sticky
+- featured
 title: If At First You Can’t Tweet, Try Jekyll Instead
 author: tim
 image: "/assets/images/ea9b7794-be35-4701-a982-2f32af4ce2db.jpeg"
