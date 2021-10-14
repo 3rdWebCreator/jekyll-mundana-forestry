@@ -11,7 +11,7 @@ author: tim
 image: "/assets/images/25257d39-b69a-42db-a2fe-21f41d5a5b1f.jpeg"
 
 ---
-Web3 still feels like a gated community. You need to show your computer science degree at the entrance, or you aren’t getting in.
+Web3 still feels like a gated community. Show your computer science degree at the entrance, or you aren’t getting in.
 
 Eventually, tools will be built that throw open the gates. For now, you need to find a loose picket in the fence, and force your way through.
 
