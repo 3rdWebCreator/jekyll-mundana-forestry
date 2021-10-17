@@ -5,7 +5,7 @@ categories:
 tags: []
 title: The Squeeze On Content Creators
 author: tim
-image: "/assets/images/photos.jpg"
+image: "/assets/images/vice.jpg"
 
 ---
 Funding is one of the big challenges for content creators and media organizations of every kind. The web sites of major magazine publishers put the struggle on full display. While they chase dollars, frustrating ads and other distractions drive readers away.
