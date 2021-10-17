@@ -3,7 +3,7 @@ layout: post
 categories:
 - Microblog
 tags: []
-title: Evidence "A"
+title: The Squeeze On Content Creators
 author: tim
 image: "/assets/images/photos.jpg"
 
