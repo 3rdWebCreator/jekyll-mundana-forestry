@@ -14,7 +14,7 @@ _Wired_ is the last magazine I remember subscribing to, so I decided to pay a vi
 
 > 
 
-    <source src="https://storageapi.fleek.co/3rdwebcreator-team-bucket/creator/A5CAE470-13DA-4A74-AA5B-1BF7F37440A4.mp4" type="video/mp4" />
+    <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" />
     <p class="vjs-no-js">
       To view this video please enable JavaScript, and consider upgrading to a
       web browser that
