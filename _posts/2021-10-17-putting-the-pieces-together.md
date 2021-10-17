@@ -9,7 +9,7 @@ categories:
 tags: []
 title: Putting the Pieces Together
 author: Tim
-image: ''
+image: "/assets/images/puzzle.jpg"
 
 ---
 ## _Creator_ started with one simple question. "What if magazine issues could be NFTs?" 
