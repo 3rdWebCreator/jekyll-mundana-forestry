@@ -23,6 +23,6 @@ web browser that
 </p>
 </video>
 
-_Wired_ may not have much choice, but blockchain smart contracts could provide new opportunities for creators. Smart contracts enable an audience to buy and own digital goods. Instead of paying for access through a paywall, the buyer gets something of value to keep or even resell. 
+_Wired_ may not have much choice, but blockchain smart contracts could provide new opportunities for other creators. Smart contracts enable an audience to buy and own digital goods. Instead of paying for access through a paywall, the buyer gets something of value to keep or even resell. 
 
 Under that new business model creators can ditch the distractions, and turn all of their attention to making content worth owning.
