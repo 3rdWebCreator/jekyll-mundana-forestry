@@ -23,4 +23,6 @@ _Wired_ is the last magazine I remember subscribing to, so I decided to pay a vi
     </p>
 </video>
 
-_Wired_ may not have much choice, but blockchain smart contracts could provide new opportunities for some creators.
+
+_Wired_ may not have much choice, but blockchain smart contracts could provide new opportunities for creators. The technology is enabling an audience to buy and own digital goods. Instead of paying for access through a paywall, the buyer gets something of value to keep or even resell. 
+Instead of focusing on how to get brands to subsidize their work with ads, creators can turn all of their attention to making content worth owning.
