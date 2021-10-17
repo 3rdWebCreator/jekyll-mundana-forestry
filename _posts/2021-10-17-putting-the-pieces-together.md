@@ -3,9 +3,9 @@ layout: post
 categories:
 - Microblog
 - Magazine
-- Web 3.0
 - Blockchain
 - Creative
+- Web3
 tags: []
 title: Putting the Pieces Together
 author: tim
