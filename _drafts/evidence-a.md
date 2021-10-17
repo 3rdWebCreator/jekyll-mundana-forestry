@@ -4,7 +4,7 @@ categories: []
 tags: []
 title: Evidence "A"
 author: tim
-image: ''
+image: "/assets/images/97af7fe0-88f8-44ea-a239-4763adfa47cf.png"
 
 ---
 Funding is one of the big challenges for creators and media organizations of every kind. Things can get ugly when chasing the money becomes the number one priority.
