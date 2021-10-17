@@ -8,7 +8,7 @@ categories:
 - Creative
 tags: []
 title: Putting the Pieces Together
-author: Tim
+author: tim
 image: "/assets/images/puzzle.jpg"
 
 ---
