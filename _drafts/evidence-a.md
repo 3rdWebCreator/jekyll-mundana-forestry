@@ -11,5 +11,23 @@ image: "/assets/images/photos.jpg"
 Funding is one of the big challenges for content creators and media organizations of every kind. The web sites of a major magazine publishers put the struggle on full display. While they chase dollars, frustrating ads and other distractions drive readers away.
 
 _Wired_ is the last magazine I remember subscribing to, so I decided to pay a visit to Wired.com, and record the screen. Unfortunately, the experience illustrated my "bad web sites" point perfectly. Take a look for yourself.
-
+<video
+    id="wired"
+    class="video-js"
+    controls
+    preload="auto"
+    width="640"
+    height="264"
+    poster="/assets/images/photos.jpg"
+    data-setup="{}"
+  >
+    <source src="https://storageapi.fleek.co/3rdwebcreator-team-bucket/creator/A5CAE470-13DA-4A74-AA5B-1BF7F37440A4.mp4" type="video/mp4" />
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
+      >
+    </p>
+  </video>
 _Wired_ may not have much choice, but blockchain smart contracts could provide new opportunities for some creators.
