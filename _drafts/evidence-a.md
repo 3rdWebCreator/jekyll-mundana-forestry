@@ -8,9 +8,9 @@ author: tim
 image: "/assets/images/photos.jpg"
 
 ---
-Funding is one of the big challenges for content creators and media organizations of every kind. The web sites of a major magazine publishers put the struggle on full display. While they chase dollars, frustrating ads and other distractions drive readers away.
+Funding is one of the big challenges for content creators and media organizations of every kind. The web sites of major magazine publishers put the struggle on full display. While they chase dollars, frustrating ads and other distractions drive readers away.
 
-_Wired_ is the last magazine I remember subscribing to, so I decided to pay a visit to Wired.com, and record the screen. Unfortunately, the experience illustrated the point perfectly. Take a look for yourself. 
+_Wired_ is the last magazine I remember subscribing to, so I decided to pay a visit to [Wired.com](https://www.wired.com), and record the screen. Unfortunately, the experience illustrated the point perfectly. Take a look for yourself. 
 
 <video id="wired" class="video-js" controls preload="auto" width="640" height="264" poster="/assets/images/photos.jpg" data-setup="{}"> 
 <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" />
