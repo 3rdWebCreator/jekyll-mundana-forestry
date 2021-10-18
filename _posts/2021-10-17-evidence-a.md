@@ -18,6 +18,6 @@ _Wired_ may not have much choice, but blockchain smart contracts will provide ne
 
 Under that new business model creators can ditch the distractions, and turn all of their attention to making content worth owning.
 
-    <video id="player" playsinline controls data-poster="/assets/images/photos.jpg">
-      <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" />
-     </video>
+<video id="player" playsinline controls data-poster="/assets/images/photos.jpg">
+  <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" />
+ </video>
