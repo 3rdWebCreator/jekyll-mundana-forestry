@@ -12,7 +12,7 @@ Funding is one of the big challenges for content creators and media organization
 
 _Wired_ is the last magazine I remember subscribing to, so I decided to pay a visit to [Wired.com](https://www.wired.com), and record the screen. Unfortunately, the experience illustrated the point perfectly. Take a look for yourself.
 
-<video id="wired" class="video-js vis-fluid" controls preload="auto" width="640" height="264" poster="/assets/images/photos.jpg" data-setup="{}"> <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" /> <p class="vjs-no-js"> To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="https://videojs.com/html5-video-support/" target="_blank" >supports HTML5 video</a > </p> </video>
+<video id="wired" class="video-js vjs-fluid" controls preload="auto" width="640" height="264" poster="/assets/images/photos.jpg" data-setup="{}"> <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" /> <p class="vjs-no-js"> To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="https://videojs.com/html5-video-support/" target="_blank" >supports HTML5 video</a > </p> </video>
 
 _Wired_ may not have much choice, but blockchain smart contracts will provide new opportunities for other creators. Smart contracts enable an audience to buy and own digital goods. Instead of paying for access through a paywall, the buyer gets something of value to keep or even resell.
 
