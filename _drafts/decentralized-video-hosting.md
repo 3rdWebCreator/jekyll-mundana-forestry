@@ -22,7 +22,13 @@ For a completely decentralized option, videos for _Creator_ will be hosted on [I
 
 ### Video JS
 
-First, the open source [Video JS ](https://videojs.com/)video player was added to the _Creator_ web site. Following the path of least resistance, the default player was imported from the [Video JS CDN storage](https://en.wikipedia.org/wiki/Content_delivery_network) by simply copying and pasting two lines of code into the site's HTML. The link to the video player CSS was inserted in the header. Then, the player's JavaScript is placed right before the closing body tag.
+First, the open source [Video JS ](https://videojs.com/)video player was added to the _Creator_ web site. Following the path of least resistance, the default player was imported from the [Video JS CDN storage](https://en.wikipedia.org/wiki/Content_delivery_network) by simply copying and pasting two lines of code into the site's HTML. The link to the video player CSS was inserted in the header. 
+
+    <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
+
+Then, the player's JavaScript is placed right before the closing body tag.
+
+    <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
 
 The video was embedded using the example HTML from that same [Video JS](https://en.wikipedia.org/wiki/Content_delivery_network) page. For _Creator,_ two optional CSS classes were included. Adding `vjs-big-play-centered` centers the play button in the player thumbnail image. And `vjs-fluid` made the player size responsive instead of a fixed dimension.
 
