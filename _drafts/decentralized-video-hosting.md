@@ -28,7 +28,18 @@ The video was embedded using the example HTML from that same [Video JS](https://
 
 Here's an example of what the complete video element HTML looks like.
 
-    <video id="wired" class="video-js vjs-fluid vjs-big-play-centered" controls preload="auto" width="640" height="264" poster="/assets/images/thumbnail.jpg" data-setup="{}"> <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" type="video/mp4" /> <p class="vjs-no-js"> To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="https://videojs.com/html5-video-support/" target="_blank" >supports HTML5 video</a > </p> </video>
+    <video id="wired" 
+    class="video-js vjs-fluid vjs-big-play-centered" 
+    controls preload="auto" 
+    width="640" 
+    height="264" 
+    poster="/assets/images/thumbnail.jpg" 
+    data-setup="{}"> 
+    <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi" 
+    type="video/mp4" /> 
+    <p class="vjs-no-js"> To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="https://videojs.com/html5-video-support/" target="_blank" >supports HTML5 video</a > 
+    </p> 
+    </video>
 
 The thumbnail or poster image is located in the site's assets folder in Jekyll. The video location comes from Fleek Storage.
 
