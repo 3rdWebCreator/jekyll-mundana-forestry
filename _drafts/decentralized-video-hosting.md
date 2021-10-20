@@ -14,19 +14,17 @@ image: ''
 ---
 ## Your YouTube channel isn't yours.
 
-YouTube is great. It's fast. It's easy. And of course, it's free. But if you want to be in complete control of your content, you will want to build your own platform, on your own web site.
-
-Generally that means using a content distribution network (CDN), which is designed to store large files, and serve them up quickly.
+YouTube is great. It's fast. It's easy. And of course, it's free. But if you want to be in complete control of your content, you will want to build your own platform, on your own web site. Generally that means using a content distribution network (CDN), which is designed to store large files, and serve them up quickly.
 
 ### A Web3 Solution
 
-For a completely decentralized option, videos for _Creator_ will be hosted on [IPFS](https://ipfs.io/) via [Fleek Storage](https://fleek.co/storage/). A recent post titled [_The Squeeze on Content Creators_](/evidence-a/) was the first on the site to featured an embedded video. Read on for a complete breakdown of the process to use for hosting your own videos.
+For a completely decentralized option, videos for _Creator_ will be hosted on [IPFS](https://ipfs.io/) via [Fleek Storage](https://fleek.co/storage/). A recent post titled [_The Squeeze on Content Creators_](/evidence-a/) was the first on the site to feature an embedded video. Read on for a complete breakdown of the process to use for hosting your own videos.
 
 ### Video JS
 
-First, the open source [Video JS ](https://videojs.com/)video player was added to the _Creator_ web site, which is built with Jekyll. Following the path of least resistance, the default player was imported from the [Video JS CDN storage](https://en.wikipedia.org/wiki/Content_delivery_network) by simply copying and pasting two lines of code into the site's HTML. The link to the video player CSS was inserted in the header. Then, the player's JavaScript is placed right before the closing body tag.
+First, the open source [Video JS ](https://videojs.com/)video player was added to the _Creator_ web site. Following the path of least resistance, the default player was imported from the [Video JS CDN storage](https://en.wikipedia.org/wiki/Content_delivery_network) by simply copying and pasting two lines of code into the site's HTML. The link to the video player CSS was inserted in the header. Then, the player's JavaScript is placed right before the closing body tag.
 
-The video was embedded using the example HTML from that same [Video JS](https://en.wikipedia.org/wiki/Content_delivery_network) page. For _Creator_ two optional CSS classes were included. Adding `vjs-big-play-centered` centers the play button in the player thumbnail image. And `vjs-fluid` made the player size responsive instead of a fixed dimension.
+The video was embedded using the example HTML from that same [Video JS](https://en.wikipedia.org/wiki/Content_delivery_network) page. For _Creator,_ two optional CSS classes were included. Adding `vjs-big-play-centered` centers the play button in the player thumbnail image. And `vjs-fluid` made the player size responsive instead of a fixed dimension.
 
 Here's an example of what the complete video element HTML looks like.
 
