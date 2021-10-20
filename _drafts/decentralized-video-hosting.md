@@ -16,7 +16,7 @@ image: ''
 
 YouTube is great. It's fast. It's easy. And of course, it's free. But if you want to be in complete control of your content, you will want to build your own platform, on your own web site.
 
-Generally that means using a content distribution network (CDN). A web site host will not always provide enough space for large files like videos. A CDN is designed to store large files, and serve them up quickly.
+Generally that means using a content distribution network (CDN). A web site host will not always provide enough space for large files like videos. CDNs are designed to store large files, and serve them up quickly.
 
 ### A Web3 Solution
 
