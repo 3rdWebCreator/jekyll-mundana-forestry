@@ -60,8 +60,8 @@ Click the upload button and select your video file. It may take a bit, but event
 
 ![](/assets/images/screen-shot-2021-10-19-at-10-46-37-pm.png)
 
-Paste that in as the source for the video on your site, and you are good to go. 
+Paste that in as the source for the video on your site, and you are good to go.
 
     <source src="https://ipfs.fleek.co/ipfs/bafybeiatdr6dbsm7q4wo3iwawq6iqgfcznpx6prkudh23hrzdzm6fy4rhi"
 
-Congrats, video creator, you have successfully decentralized your content. Now pop some popcorn, and mash that play button.
+Congrats, video creator, you have successfully decentralized your content. Now pop some popcorn, and mash the play button.
