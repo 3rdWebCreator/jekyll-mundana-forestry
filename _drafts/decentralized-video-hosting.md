@@ -22,7 +22,7 @@ For a completely decentralized option, videos for _Creator_ will be hosted on [I
 
 ### Video JS
 
-First, the open source [Video JS ](https://videojs.com/)video player was added to the _Creator_ web site. Following the path of least resistance, the default player was imported from the [Video JS CDN storage](https://en.wikipedia.org/wiki/Content_delivery_network) by simply copying and pasting two lines of code into the site's HTML. The link to the video player CSS was inserted in the header. 
+First, the open source [Video JS ](https://videojs.com/)video player was added to the _Creator_ web site. Following the path of least resistance, the default player was imported from [Video JS CDN storage](https://en.wikipedia.org/wiki/Content_delivery_network) by simply copying and pasting two lines of code into the site's HTML. The link to the video player CSS was inserted in the header. 
 
     <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet" />
 
