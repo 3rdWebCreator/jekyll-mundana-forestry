@@ -9,7 +9,7 @@ tags:
 - Video JS
 title: Decentralized Video Hosting
 author: tim
-image: ''
+image: "/assets/images/fleektube.png"
 
 ---
 ## Your YouTube channel isn't yours.
