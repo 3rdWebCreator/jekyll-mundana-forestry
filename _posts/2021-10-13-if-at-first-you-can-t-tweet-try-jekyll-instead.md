@@ -3,7 +3,6 @@ layout: post
 categories:
 - Microblog
 tags:
-- sticky
 - featured
 title: If At First You Can’t Tweet, Try Jekyll Instead
 author: tim
