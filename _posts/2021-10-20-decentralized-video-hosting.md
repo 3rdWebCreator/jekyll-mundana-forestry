@@ -7,7 +7,6 @@ tags:
 - Video
 - Hosting
 - Video JS
-- sticky
 - featured
 title: Decentralized Video Hosting
 author: tim
