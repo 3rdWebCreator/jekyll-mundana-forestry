@@ -14,7 +14,7 @@ image: ''
 ---
 ## Your YouTube channel isn't yours.
 
-YouTube is great. It's fast. It's easy. And of course, it's free. But if you want to be in complete control of your content, you will want to build your own platform, on your own web site. Generally that means using a content distribution network (CDN), which is designed to store large files, and serve them up quickly.
+YouTube is great. It's fast. It's easy. And of course, it's free. But if you want to be in complete control of your content, you will need to build your own platform, on your own web site. Generally that means using a content distribution network (CDN), which is designed to store large files, and serve them up quickly.
 
 ### A Web3 Solution
 
