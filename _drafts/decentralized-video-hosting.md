@@ -8,6 +8,7 @@ tags:
 - Hosting
 - Video JS
 - sticky
+- featured
 title: Decentralized Video Hosting
 author: tim
 image: "/assets/images/fleektube.png"
