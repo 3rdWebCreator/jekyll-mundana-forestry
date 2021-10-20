@@ -55,4 +55,8 @@ To upload the video file to Fleek, look for the Storage link in the account.
 
 ![screenshot](/assets/images/screen-shot-2021-10-19-at-10-38-40-pm.png "screenshot")
 
-Click the upload button and select your video file. It may take a bit, but eventually you should see a confirmation that your video has been uploaded. Click the "Verify on IPFS" link, and copy the URL. Paste that in as the source for the video on your site, and you are good to go. Congrats, video creator, you have successfully decentralized your content. Now pop some popcorn, and mash that play button.
+Click the upload button and select your video file. It may take a bit, but eventually you should see a confirmation that your video has been uploaded. Click the "Verify on IPFS" link, and copy the URL. 
+
+![](/assets/images/screen-shot-2021-10-19-at-10-46-37-pm.png)
+
+Paste that in as the source for the video on your site, and you are good to go. Congrats, video creator, you have successfully decentralized your content. Now pop some popcorn, and mash that play button.
