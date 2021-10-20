@@ -35,7 +35,7 @@ authors:
     avatar: "/assets/images/tim.jpg"
     bio: Welcome to my blog on the third web.
     email: contact@3rdwebcreator.com
-    twitter: links.timrohe.hns.to
+    twitter: http://links.timrohe.hns.to
 defaults:
 - scope:
     path: _posts
