@@ -2168,8 +2168,8 @@ fieldset:disabled a.btn {
   background-image: none;
   border-color: #212529; }
   .btn-outline-success:hover {
-    color: #000000;
-    background-color: transparent;
+    color: #fff;
+    background-color: #000;
     border-color: #000000; }
   .btn-outline-success:focus, .btn-outline-success.focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 222, 0, 0.5); }
