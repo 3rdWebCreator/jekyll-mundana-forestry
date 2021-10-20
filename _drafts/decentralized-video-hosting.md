@@ -20,7 +20,7 @@ Generally that means using a content distribution network (CDN), which is design
 
 ### A Web3 Solution
 
-For a completely decentralized option, videos for _Creator_ will be hosted on [IPFS](https://ipfs.io/) via [Fleek Storage](https://fleek.co/storage/). A recent post titled _The Squeeze on Content Creators_ was the first on the site to featured an embedded video. Read on for a complete breakdown of the process to use for hosting your own videos.
+For a completely decentralized option, videos for _Creator_ will be hosted on [IPFS](https://ipfs.io/) via [Fleek Storage](https://fleek.co/storage/). A recent post titled [_The Squeeze on Content Creators_](/evidence-a/) was the first on the site to featured an embedded video. Read on for a complete breakdown of the process to use for hosting your own videos.
 
 ### Video JS
 
