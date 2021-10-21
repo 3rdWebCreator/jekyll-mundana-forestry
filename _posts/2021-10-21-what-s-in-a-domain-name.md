@@ -12,7 +12,7 @@ author: tim
 image: "/assets/images/name.jpg"
 
 ---
-It looks a little strange, but my author name on the site is now displayed as a [Handshake](https://handshake.org/) top level domain. Top level meaning like the "com" in a traditional .com domain.
+It looks a little strange, but my author name on the site is now displayed as a [Handshake](https://handshake.org/) top level domain. Top level as in the "com" in a traditional .com domain.
 
 I've seen Handshake "Namers" doing this in various places on the web to raise awareness for the domain system. You can find a whole bunch of them in the [Namer Community](https://community.namebase.io/).
 
