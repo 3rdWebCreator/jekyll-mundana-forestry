@@ -19,7 +19,7 @@ YouTube is great. It's fast. It's easy. And of course, it's free. But if you wan
 
 ### A Web3 Solution
 
-For a completely decentralized option, videos for _Creator_ will be hosted on [IPFS](https://ipfs.io/) via [Fleek Storage](https://fleek.co/storage/). A recent post titled [_The Squeeze on Content Creators_](/evidence-a/) was the first on the site to feature an embedded video. Read on for a complete breakdown of the process, and you can use.a similar approach for hosting your own videos.
+For a completely decentralized option, videos for _Creator_ will be hosted on [IPFS](https://ipfs.io/) via [Fleek Storage](https://fleek.co/storage/). A recent post titled [_The Squeeze on Content Creators_](/evidence-a/) was the first on the site to feature an embedded video. Read on for a complete breakdown of the process, and you can use a similar approach for hosting your own videos.
 
 ### Video JS
 
