@@ -35,7 +35,7 @@ authors:
     avatar: "/assets/images/tim.jpg"
     bio: Hi, my name is Tim Rohe. Welcome to my blog on the third web.
     email: contact@3rdwebcreator.com
-    twitter: http://links.timrohe.hns.to
+    twitter: https://mirror.xyz/timrohe.eth
 defaults:
 - scope:
     path: _posts
