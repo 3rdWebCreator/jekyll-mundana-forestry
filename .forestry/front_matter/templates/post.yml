@@ -25,13 +25,7 @@ fields:
   default: []
   label: Tags
 pages:
-- _posts/2021-09-13-writing-like-a-journalist.md
-- _posts/2021-10-13-good-magazines-have-bad-websites.md
-- _posts/2021-10-13-if-at-first-you-can-t-tweet-try-jekyll-instead.md
-- _posts/2021-10-13-not-a-developer.md
-- _posts/2021-10-13-set-it-and-forget-it.md
+- _posts/2023-05-19-blogging-to-get-unblocked.md
 - _posts/2021-10-14-on-fleek.md
-- _posts/2021-10-17-evidence-a.md
-- _posts/2021-10-17-putting-the-pieces-together.md
 - _posts/2021-10-20-decentralized-video-hosting.md
 - about.md
